@@ -13,6 +13,18 @@ Amazon Athena is a serverless, interactive query service that allows you to anal
 
 ---
 
+- https://github.com/awslabs/aws-athena-query-federation
+- https://github.com/aws-samples/data-exploration-with-amazon-athena
+- https://github.com/topics/aws-athena?l=java
+- https://github.com/awslabs/aws-athena-query-federation/releases
+- https://github.com/awslabs/aws-athena-query-federation/wiki/Available-Connectors
+- https://github.com/aws-samples/text-to-sql-for-athena
+- https://github.com/awslabs/aws-security-analytics-bootstrap
+- https://github.com/aws-samples/aws-athena-websocket-api
+
+  
+---
+
 # Key Features and CapabilitiesZero ETL:
 - You do not need to move or load data into a proprietary database; it queries files directly where they live in S3.
 - Powered by Open Source: Athena is built on the Trino (formerly Presto) distributed SQL engine and Apache Hive, allowing for fast, parallelized processing of massive datasets.
