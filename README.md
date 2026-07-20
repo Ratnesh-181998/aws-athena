@@ -2,6 +2,7 @@
 Amazon Athena is a serverless, interactive query service that allows you to analyze data directly in Amazon S3 using standard ANSI SQL. Because it is serverless, there is no infrastructure to manage or set up. You pay only for the amount of data scanned per query, making it highly cost-effective
 
 <img width="1572" height="926" alt="image" src="https://github.com/user-attachments/assets/54395a49-b0e8-4cc1-9b72-47f155381065" />
+<img width="1770" height="686" alt="image" src="https://github.com/user-attachments/assets/aaef4430-5afc-4331-9512-34cfade57552" />
 
 - https://www.amazonaws.cn/en/athena/
 - https://docs.aws.amazon.com/boto3/latest/reference/services/athena.html
